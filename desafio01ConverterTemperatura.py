@@ -1,4 +1,4 @@
-#Conversao de temperaturas
+#Desafio1 - Conversor de Graus Celsius para Farenheint e Vice-versa
 
 desafio = 'Conversor de Graus Celsius para Farenheint e Vice-versa'
 
