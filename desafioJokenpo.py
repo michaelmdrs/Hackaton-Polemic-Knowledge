@@ -1,4 +1,4 @@
-print('***** DESAFIO 044 *****')
+print('***** DESAFIO PEDRA, PAPEL E TESOURA *****')
 print('=' * 30)
 
 from random import randint
